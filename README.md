@@ -31,7 +31,7 @@ Pivot: Pivot tables summarizing the data
 Dashboard: Interactive visual representation of key metrics
 
 🛠 Tools Used
-Microsoft Excel (.xlsb)
+Microsoft Excel 
 
 Pivot Tables
 
